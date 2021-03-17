@@ -5,7 +5,7 @@ DL engineer at LD Models. Deal with Deep Learning, Computer Vision and Machine l
 
 ### What I do
 - Addicted to ml4sg ideas, collaborate at Lacmus DL project https://lacmus-foundation.github.io 
-- Achievements: created an image improvement tool https://github.com/lacmus-foundation/sharp-in
+- Achievements: created an image improvement tool https://github.com/lacmus-foundation/sharp-in with API and Telegram bot.
 
 ### Where I am heading
 Interested in future development as a data scientist, preferably in fields of Computer Vision or Big Data Analysis.
